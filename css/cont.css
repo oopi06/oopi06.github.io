@@ -1,0 +1,35 @@
+a:link, , a:visited, a:active {text-decoration: none;
+                               color: white;}
+
+a:hover {text-decoration: underline;
+         color: red;}
+
+ * {color: white;}
+
+
+ #main .info {border-bottom: solid 1px white;
+   margin-top: 25px;
+   margin-bottom: 30px;}
+         #mainlogo {text-align: center;}
+
+
+         #logo {color: #cccccc;}
+
+         table {margin: auto;
+                display: table;
+              color: black}
+
+         th, tr, td {font-family: arial;
+                     border: none;
+                     border-collapse: collapse;
+                     padding: 8px;
+                     text-align: left;
+                     background-color: black;
+                     color: white;}
+
+         button {color: black;}
+
+         #h1 {text-align: center;}
+
+         #p1 {text-align: center;
+              font-size: 30px}
